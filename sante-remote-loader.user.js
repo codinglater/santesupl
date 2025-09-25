@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Sante PDF Batch Extractor (Remote)
-// @namespace    https://github.com/vladpatrascu/sante-pdf-extractor
+// @namespace    https://github.com/codinglater/santesupl
 // @version      1.0.0
 // @description  Batch extract data from PDFs on rezultateptmedici.clinica-sante.ro - loads remotely from GitHub
-// @author       Vlad Patrascu
+// @author       Vlad
 // @match        *://rezultateptmedici.clinica-sante.ro/*
 // @grant        none
 // @require      https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.min.js
