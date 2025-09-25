@@ -19,8 +19,8 @@
     }
 
     // Remote GitHub repository configuration
-    const GITHUB_USER = 'vladpatrascu';  // Replace with your GitHub username
-    const GITHUB_REPO = 'sante-pdf-extractor';  // Replace with your repository name
+    const GITHUB_USER = 'codinglater';  // Replace with your GitHub username
+    const GITHUB_REPO = 'santesupl';  // Replace with your repository name
     const GITHUB_BRANCH = 'main';  // Replace with your branch name if different
 
     // Function to load remote scripts
